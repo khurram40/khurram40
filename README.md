@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kf115462@gmail.com**
 
-- ⚡ Fun fact **I think I am good cricketer**
+- ⚡ Fun fact **I love Cricket** 🏏
 <br />
 
 ## 🎉 Connect with me
