@@ -48,6 +48,13 @@
   <br/>
   <a href="https://github.com/khurram40/github-readme-stats"><img alt="Khurram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khurram40&show_icons=true&count_private=true&hide=" /></a>
 </details>
+
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/khurram40/github-readme-stats"><img alt="Khurram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurram40&langs_count=10&layout=compact#" /></a>
+  <br/>
+</details>
 <br />
 
 ## I'm pro 😎 at:
