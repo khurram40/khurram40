@@ -5,8 +5,7 @@
 <img align="center" alt="Work Work & Work" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="1200" height="300" />
 <br />
 <br />
- ## 📖 About me:
- 
+## 🎉 Connect with me 
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Flutter**
@@ -30,7 +29,23 @@
 <a href="https://fb.com/khurram shahzad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khurram shahzad" height="30" width="40" /></a>
 </p>
 <br />
+## 🔥 My contribution streak
+
+<p>
+  <a href="https://github.com/khurram40/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khurram40#version3"/>
+  </a>
+</p>
+
 <br />
+
+## 📈 Github Stats
+
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/khurram40/github-readme-stats"><img alt="Khurram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lionuncle&show_icons=true&count_private=true&hide=" /></a>
+</details>
 
 ## I'm pro 😎 at:
 <br />
