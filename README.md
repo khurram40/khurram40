@@ -5,7 +5,8 @@
 <img align="center" alt="Work Work & Work" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="1200" height="300" />
 <br />
 <br />
-
+ ## 📖 About me:
+ 
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Flutter**
@@ -20,7 +21,7 @@
 <br />
 <br />
 
-<h3 align="left">Connect with me:</h3>
+## 🎉 Connect with me
 <br />
 
 <p align="left">
@@ -31,7 +32,7 @@
 <br />
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+## I'm pro 😎 at:
 <br />
 <br />
 
