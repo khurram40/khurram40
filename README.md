@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm khurram shehzad</h1>
+<h1 align="center">Hi 👋, I'm khurram</h1>
 <h3 align="center">A passionate Mobile App developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Flutter**
