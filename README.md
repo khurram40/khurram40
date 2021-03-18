@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile App developer from Pakistan</h3>
 <br />
 
-<img align="center" alt="Work Work & Work" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="800" height="300" />
+<img align="center" alt="Work Work & Work" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="1200" height="400" />
 <br />
 <br />
 
