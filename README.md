@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm khurram</h1>
 <h3 align="center">A passionate Mobile App developer from Pakistan</h3>
 
+<img align="right" alt="GIF" src="https://giphy.com/gifs/vLpclx5lofmqnEswm0/html5" width="200" height="200" />
+
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Flutter**
