@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/khurram40" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khurram40" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12423329" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12423329" height="30" width="40" /></a>
-<a href="https://fb.com/khurram shahzad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khurram shahzad" height="30" width="40" /></a>
+<a href="https://fb.com/khurramshahzad.shahzad.9809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khurram shahzad" height="30" width="40" /></a>
 </p>
 <br />
 
