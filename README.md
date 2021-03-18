@@ -4,8 +4,9 @@
 
 <img align="center" alt="Work Work & Work" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="1200" height="300" />
 <br />
+
+## 📖 About me:
 <br />
-## 🎉 Connect with me 
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Flutter**
@@ -17,7 +18,6 @@
 - 📫 How to reach me **kf115462@gmail.com**
 
 - ⚡ Fun fact **I think I am good cricketer**
-<br />
 <br />
 
 ## 🎉 Connect with me
@@ -44,11 +44,12 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/khurram40/github-readme-stats"><img alt="Khurram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lionuncle&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/khurram40/github-readme-stats"><img alt="Khurram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khurram40&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
-## I'm pro 😎 at:
 <br />
+
+## I'm pro 😎 at:
 <br />
 
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
