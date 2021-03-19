@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm khurram</h1>
 <h3 align="center">A passionate Mobile App developer from Pakistan</h3>
 <br />
-<img align="center" alt="Work Work & Work" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="1200" height="300" />
+<img align="center" alt="Work Work & Work"  src="https://giphy.com/embed/vLpclx5lofmqnEswm0" width="1200" height="300" />
 <br />
  
 ## 📖 About me:
